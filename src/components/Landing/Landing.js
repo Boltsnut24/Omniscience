@@ -7,6 +7,7 @@ function Landing() {
       <div>
         <Login />
         <Signup />
+        <Beastiary />
         {
           //create a monster
           //view monsters => make a new monster
